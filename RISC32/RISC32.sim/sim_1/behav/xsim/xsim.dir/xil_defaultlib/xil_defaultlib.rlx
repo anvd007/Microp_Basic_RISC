@@ -1,0 +1,23 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Nitish Adari/Downloads/MIPS32-main/ALU.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/ALUControl.v,,ALU,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/ALUControl.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/EX_Forwarding_unit.v,,ALUControl,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/EX_Forwarding_unit.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/EX_pipe_stage.v,,EX_Forwarding_unit,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/EX_pipe_stage.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/Hazard_detection.v,,EX_pipe_stage,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/Hazard_detection.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/ID_pipe_stage.v,,Hazard_detection,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/ID_pipe_stage.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/IF_pipe_stage.v,,ID_pipe_stage,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/IF_pipe_stage.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/control.v,,IF_pipe_stage,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/control.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/data_memory.v,,control,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/data_memory.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/instruction_mem.v,,data_memory,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/instruction_mem.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/mips_32.v,,instruction_mem,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/mips_32.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/mux.v,,mips_32,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/mux.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/mux4.v,,mux2,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/mux4.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/pipe_reg.v,,mux4,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/pipe_reg.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/pipe_reg_en.v,,pipe_reg,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/pipe_reg_en.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/register_file.v,,pipe_reg_en,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/register_file.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/sign_extend.v,,register_file,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/sign_extend.v,1639767560,verilog,,C:/Users/Nitish Adari/Downloads/MIPS32-main/tb_mips_32.v,,sign_extend,,,,,,,,
+C:/Users/Nitish Adari/Downloads/MIPS32-main/tb_mips_32.v,1639767560,verilog,,,,tb_mips_32,,,,,,,,
+C:/Users/Nitish Adari/RISC32/RISC32.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,

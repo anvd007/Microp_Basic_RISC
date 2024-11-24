@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Downloads/MIPS32-main/ALU.v" \
+"../../../../../Downloads/MIPS32-main/ALUControl.v" \
+"../../../../../Downloads/MIPS32-main/EX_Forwarding_unit.v" \
+"../../../../../Downloads/MIPS32-main/EX_pipe_stage.v" \
+"../../../../../Downloads/MIPS32-main/Hazard_detection.v" \
+"../../../../../Downloads/MIPS32-main/ID_pipe_stage.v" \
+"../../../../../Downloads/MIPS32-main/IF_pipe_stage.v" \
+"../../../../../Downloads/MIPS32-main/control.v" \
+"../../../../../Downloads/MIPS32-main/data_memory.v" \
+"../../../../../Downloads/MIPS32-main/instruction_mem.v" \
+"../../../../../Downloads/MIPS32-main/mips_32.v" \
+"../../../../../Downloads/MIPS32-main/mux.v" \
+"../../../../../Downloads/MIPS32-main/mux4.v" \
+"../../../../../Downloads/MIPS32-main/pipe_reg.v" \
+"../../../../../Downloads/MIPS32-main/pipe_reg_en.v" \
+"../../../../../Downloads/MIPS32-main/register_file.v" \
+"../../../../../Downloads/MIPS32-main/sign_extend.v" \
+"../../../../../Downloads/MIPS32-main/tb_mips_32.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

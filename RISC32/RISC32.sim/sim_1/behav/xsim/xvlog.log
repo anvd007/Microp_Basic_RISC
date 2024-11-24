@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/ALUControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/EX_Forwarding_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_Forwarding_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/EX_pipe_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_pipe_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/Hazard_detection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hazard_detection
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/ID_pipe_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_pipe_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/IF_pipe_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_pipe_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/instruction_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/mips_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/mux4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/pipe_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/pipe_reg_en.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_reg_en
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/register_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/sign_extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sign_extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/Downloads/MIPS32-main/tb_mips_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_mips_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Nitish Adari/RISC32/RISC32.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
